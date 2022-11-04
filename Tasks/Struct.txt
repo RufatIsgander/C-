@@ -1,0 +1,10 @@
+Ilk once ekranda 
+	Ishchiler
+	Telefonlar
+gorsenir.
+
+Ishchiler sechilse ekranda ishchilerin Ad ve soyadlari gorsenir.=>
+=> Hansi ishchi sechilse onun butun shexsi melumatlari gorsenir.
+
+Telefonlar sechilse ekranda telefonlarin model ve markalari gorsenir.=>
+=> Hansi telefon sechilse onun butun xarakteristikasi gorsenir.

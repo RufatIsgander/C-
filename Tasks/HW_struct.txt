@@ -1,0 +1,33 @@
+DateTime struct-i yaratmaq
+{
+short day;
+short month;
+short year;
+}
+
+Student struct-i yaratmaq
+{
+int id;
+char* name = new char[30]{};
+char* surname = new char[30]{};
+char* city = new char[30]{};
+int age;
+int score;
+}
+
+struct Group{
+
+}
+
+
+Academy struct-i yaratmaq
+{
+char* name = new char[30]{};
+DateTime datetime;
+Group groups*;
+
+
+1) void showGroups(Academy) adinda funksiya yazmaq
+2) showAcademyInfo adinda funksiya yazmaq
+3) void: score-u 50-den cox olan teleberi gosteren funksiya
+4) yashi 18-21 arasi olan telebeleri gosteren funksiya

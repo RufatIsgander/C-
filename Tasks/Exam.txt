@@ -1,0 +1,39 @@
+/*		Battle ship
+	1. Player vs Bot
+	2. 10x10 sahe x2 (Botun ve Playerin)
+	3. Gemiler Yerleshdirilmeli{
+		4 xanali x2 
+		3 xanali x3 
+		2 xanali x4 
+		1 xanali x5 
+	}
+	4. Gemiler ya shaquli ya da ufiqi yerleshdirile biler
+	5. Koordinat sistemi: Y oxu reqemlerle, X oxu Herflerle
+	6. Ekranda 2 dene sahe:
+		Yuxarda Reqibin Sahesi(gemilersiz) gorsenir. Player vurdugu yerleri gorecek. 
+		Gemiye vurubsa QIRMIZI, eks halda YASHIL gorsenecek
+	7. Eger Duzgun vurulubsa hemin adam davam edir. Eks halda novbe reqibe kechir. 
+*/
+
+/*		Kontakt List
+	1. Ekranda Menu{
+		All contacts
+		Add Contact
+		Search
+	}
+	2. All contacts =>
+		1. Ekranda{
+			Adlar
+			Back
+		}
+
+		2. Hansi contact sechilse icherisindeki melumatlar ekrana chixir.
+			a. Edit Contact
+			b. Delete Contact
+			c. Back
+	3. Add Contact => Yeni contact elave olunur.
+	4. Search => Hem ad hem de nomreye gore axtarish olacaq. Uygun olan butun contactlar ekrana chixacaq.
+	5. Butun Melumatlar File'a yazilacaq.
+*/
+
+
